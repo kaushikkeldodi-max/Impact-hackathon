@@ -1,0 +1,16 @@
+# Dependencies and build output
+**/node_modules/
+**/dist/
+**/coverage/
+**/*.tsbuildinfo
+
+# Local environment files
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs and temporary files
+**/*.log
+**/logs/
+**/.temp/
+**/.tmp/
